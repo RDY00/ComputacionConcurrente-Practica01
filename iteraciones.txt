@@ -1,0 +1,340 @@
+Iteracion 1
+target/surefire-reports/unam.ciencias.computoconcurrente.MatrixUtilsTest.txt:findaverageConcurrent2  Time elapsed: 0.05 s
+target/surefire-reports/unam.ciencias.computoconcurrente.MatrixUtilsTest.txt:findAverageConcurrent  Time elapsed: 0.009 s
+target/surefire-reports/unam.ciencias.computoconcurrente.MatrixUtilsTest.txt:findAverage  Time elapsed: 0.007 s
+target/surefire-reports/unam.ciencias.computoconcurrente.MatrixUtilsTest.txt:findAverage2  Time elapsed: 0.014 s
+target/surefire-reports/unam.ciencias.computoconcurrente.PrimeNumberCalculatorTest.txt:isPrimeSequentialBigNumber  Time elapsed: 0 s
+target/surefire-reports/unam.ciencias.computoconcurrente.PrimeNumberCalculatorTest.txt:isNotPrimeSequentialBigNumber  Time elapsed: 0 s
+target/surefire-reports/unam.ciencias.computoconcurrente.PrimeNumberCalculatorTest.txt:isPrimeConcurrentBigNumber  Time elapsed: 0.015 s
+target/surefire-reports/unam.ciencias.computoconcurrente.PrimeNumberCalculatorTest.txt:isPrimeConcurrent  Time elapsed: 0.026 s
+target/surefire-reports/unam.ciencias.computoconcurrente.PrimeNumberCalculatorTest.txt:isNotPrimeConcurrent  Time elapsed: 0.011 s
+target/surefire-reports/unam.ciencias.computoconcurrente.PrimeNumberCalculatorTest.txt:oneIsNotPrime  Time elapsed: 0.016 s
+target/surefire-reports/unam.ciencias.computoconcurrente.PrimeNumberCalculatorTest.txt:isNotPrimeConcurrentBigNumber  Time elapsed: 0.008 s
+target/surefire-reports/unam.ciencias.computoconcurrente.PrimeNumberCalculatorTest.txt:isPrimeSequential  Time elapsed: 0.005 s
+target/surefire-reports/unam.ciencias.computoconcurrente.PrimeNumberCalculatorTest.txt:zeroIsNotPrime  Time elapsed: 0.012 s
+target/surefire-reports/unam.ciencias.computoconcurrente.PrimeNumberCalculatorTest.txt:isNotPrimeSequential  Time elapsed: 0.018 s
+target/surefire-reports/unam.ciencias.computoconcurrente.PrimeNumberCalculatorTest.txt:negativeIsPrime  Time elapsed: 0.01 s
+
+Iteracion 2
+target/surefire-reports/unam.ciencias.computoconcurrente.MatrixUtilsTest.txt:findaverageConcurrent2  Time elapsed: 0.089 s
+target/surefire-reports/unam.ciencias.computoconcurrente.MatrixUtilsTest.txt:findAverageConcurrent  Time elapsed: 0.018 s
+target/surefire-reports/unam.ciencias.computoconcurrente.MatrixUtilsTest.txt:findAverage  Time elapsed: 0.004 s
+target/surefire-reports/unam.ciencias.computoconcurrente.MatrixUtilsTest.txt:findAverage2  Time elapsed: 0.004 s
+target/surefire-reports/unam.ciencias.computoconcurrente.PrimeNumberCalculatorTest.txt:isPrimeSequentialBigNumber  Time elapsed: 0.002 s
+target/surefire-reports/unam.ciencias.computoconcurrente.PrimeNumberCalculatorTest.txt:isNotPrimeSequentialBigNumber  Time elapsed: 0.014 s
+target/surefire-reports/unam.ciencias.computoconcurrente.PrimeNumberCalculatorTest.txt:isPrimeConcurrentBigNumber  Time elapsed: 0.005 s
+target/surefire-reports/unam.ciencias.computoconcurrente.PrimeNumberCalculatorTest.txt:isPrimeConcurrent  Time elapsed: 0.009 s
+target/surefire-reports/unam.ciencias.computoconcurrente.PrimeNumberCalculatorTest.txt:isNotPrimeConcurrent  Time elapsed: 0.012 s
+target/surefire-reports/unam.ciencias.computoconcurrente.PrimeNumberCalculatorTest.txt:oneIsNotPrime  Time elapsed: 0.011 s
+target/surefire-reports/unam.ciencias.computoconcurrente.PrimeNumberCalculatorTest.txt:isNotPrimeConcurrentBigNumber  Time elapsed: 0.022 s
+target/surefire-reports/unam.ciencias.computoconcurrente.PrimeNumberCalculatorTest.txt:isPrimeSequential  Time elapsed: 0.014 s
+target/surefire-reports/unam.ciencias.computoconcurrente.PrimeNumberCalculatorTest.txt:zeroIsNotPrime  Time elapsed: 0.012 s
+target/surefire-reports/unam.ciencias.computoconcurrente.PrimeNumberCalculatorTest.txt:isNotPrimeSequential  Time elapsed: 0.009 s
+target/surefire-reports/unam.ciencias.computoconcurrente.PrimeNumberCalculatorTest.txt:negativeIsPrime  Time elapsed: 0.01 s
+
+Iteracion 3
+target/surefire-reports/unam.ciencias.computoconcurrente.MatrixUtilsTest.txt:findaverageConcurrent2  Time elapsed: 0.09 s
+target/surefire-reports/unam.ciencias.computoconcurrente.MatrixUtilsTest.txt:findAverageConcurrent  Time elapsed: 0.014 s
+target/surefire-reports/unam.ciencias.computoconcurrente.MatrixUtilsTest.txt:findAverage  Time elapsed: 0.004 s
+target/surefire-reports/unam.ciencias.computoconcurrente.MatrixUtilsTest.txt:findAverage2  Time elapsed: 0.002 s
+target/surefire-reports/unam.ciencias.computoconcurrente.PrimeNumberCalculatorTest.txt:isPrimeSequentialBigNumber  Time elapsed: 0 s
+target/surefire-reports/unam.ciencias.computoconcurrente.PrimeNumberCalculatorTest.txt:isNotPrimeSequentialBigNumber  Time elapsed: 0 s
+target/surefire-reports/unam.ciencias.computoconcurrente.PrimeNumberCalculatorTest.txt:isPrimeConcurrentBigNumber  Time elapsed: 0.025 s
+target/surefire-reports/unam.ciencias.computoconcurrente.PrimeNumberCalculatorTest.txt:isPrimeConcurrent  Time elapsed: 0.023 s
+target/surefire-reports/unam.ciencias.computoconcurrente.PrimeNumberCalculatorTest.txt:isNotPrimeConcurrent  Time elapsed: 0.007 s
+target/surefire-reports/unam.ciencias.computoconcurrente.PrimeNumberCalculatorTest.txt:oneIsNotPrime  Time elapsed: 0.014 s
+target/surefire-reports/unam.ciencias.computoconcurrente.PrimeNumberCalculatorTest.txt:isNotPrimeConcurrentBigNumber  Time elapsed: 0.008 s
+target/surefire-reports/unam.ciencias.computoconcurrente.PrimeNumberCalculatorTest.txt:isPrimeSequential  Time elapsed: 0.015 s
+target/surefire-reports/unam.ciencias.computoconcurrente.PrimeNumberCalculatorTest.txt:zeroIsNotPrime  Time elapsed: 0.015 s
+target/surefire-reports/unam.ciencias.computoconcurrente.PrimeNumberCalculatorTest.txt:isNotPrimeSequential  Time elapsed: 0.017 s
+target/surefire-reports/unam.ciencias.computoconcurrente.PrimeNumberCalculatorTest.txt:negativeIsPrime  Time elapsed: 0.017 s
+
+Iteracion 4
+target/surefire-reports/unam.ciencias.computoconcurrente.MatrixUtilsTest.txt:findaverageConcurrent2  Time elapsed: 0.06 s
+target/surefire-reports/unam.ciencias.computoconcurrente.MatrixUtilsTest.txt:findAverageConcurrent  Time elapsed: 0.005 s
+target/surefire-reports/unam.ciencias.computoconcurrente.MatrixUtilsTest.txt:findAverage  Time elapsed: 0 s
+target/surefire-reports/unam.ciencias.computoconcurrente.MatrixUtilsTest.txt:findAverage2  Time elapsed: 0 s
+target/surefire-reports/unam.ciencias.computoconcurrente.PrimeNumberCalculatorTest.txt:isPrimeSequentialBigNumber  Time elapsed: 0 s
+target/surefire-reports/unam.ciencias.computoconcurrente.PrimeNumberCalculatorTest.txt:isNotPrimeSequentialBigNumber  Time elapsed: 0 s
+target/surefire-reports/unam.ciencias.computoconcurrente.PrimeNumberCalculatorTest.txt:isPrimeConcurrentBigNumber  Time elapsed: 0.007 s
+target/surefire-reports/unam.ciencias.computoconcurrente.PrimeNumberCalculatorTest.txt:isPrimeConcurrent  Time elapsed: 0.026 s
+target/surefire-reports/unam.ciencias.computoconcurrente.PrimeNumberCalculatorTest.txt:isNotPrimeConcurrent  Time elapsed: 0.016 s
+target/surefire-reports/unam.ciencias.computoconcurrente.PrimeNumberCalculatorTest.txt:oneIsNotPrime  Time elapsed: 0.012 s
+target/surefire-reports/unam.ciencias.computoconcurrente.PrimeNumberCalculatorTest.txt:isNotPrimeConcurrentBigNumber  Time elapsed: 0.019 s
+target/surefire-reports/unam.ciencias.computoconcurrente.PrimeNumberCalculatorTest.txt:isPrimeSequential  Time elapsed: 0.018 s
+target/surefire-reports/unam.ciencias.computoconcurrente.PrimeNumberCalculatorTest.txt:zeroIsNotPrime  Time elapsed: 0.029 s
+target/surefire-reports/unam.ciencias.computoconcurrente.PrimeNumberCalculatorTest.txt:isNotPrimeSequential  Time elapsed: 0.007 s
+target/surefire-reports/unam.ciencias.computoconcurrente.PrimeNumberCalculatorTest.txt:negativeIsPrime  Time elapsed: 0.006 s
+
+Iteracion 5
+target/surefire-reports/unam.ciencias.computoconcurrente.MatrixUtilsTest.txt:findaverageConcurrent2  Time elapsed: 0.049 s
+target/surefire-reports/unam.ciencias.computoconcurrente.MatrixUtilsTest.txt:findAverageConcurrent  Time elapsed: 0.005 s
+target/surefire-reports/unam.ciencias.computoconcurrente.MatrixUtilsTest.txt:findAverage  Time elapsed: 0.005 s
+target/surefire-reports/unam.ciencias.computoconcurrente.MatrixUtilsTest.txt:findAverage2  Time elapsed: 0 s
+target/surefire-reports/unam.ciencias.computoconcurrente.PrimeNumberCalculatorTest.txt:isPrimeSequentialBigNumber  Time elapsed: 0 s
+target/surefire-reports/unam.ciencias.computoconcurrente.PrimeNumberCalculatorTest.txt:isNotPrimeSequentialBigNumber  Time elapsed: 0 s
+target/surefire-reports/unam.ciencias.computoconcurrente.PrimeNumberCalculatorTest.txt:isPrimeConcurrentBigNumber  Time elapsed: 0.021 s
+target/surefire-reports/unam.ciencias.computoconcurrente.PrimeNumberCalculatorTest.txt:isPrimeConcurrent  Time elapsed: 0.004 s
+target/surefire-reports/unam.ciencias.computoconcurrente.PrimeNumberCalculatorTest.txt:isNotPrimeConcurrent  Time elapsed: 0.017 s
+target/surefire-reports/unam.ciencias.computoconcurrente.PrimeNumberCalculatorTest.txt:oneIsNotPrime  Time elapsed: 0.014 s
+target/surefire-reports/unam.ciencias.computoconcurrente.PrimeNumberCalculatorTest.txt:isNotPrimeConcurrentBigNumber  Time elapsed: 0.021 s
+target/surefire-reports/unam.ciencias.computoconcurrente.PrimeNumberCalculatorTest.txt:isPrimeSequential  Time elapsed: 0.008 s
+target/surefire-reports/unam.ciencias.computoconcurrente.PrimeNumberCalculatorTest.txt:zeroIsNotPrime  Time elapsed: 0.016 s
+target/surefire-reports/unam.ciencias.computoconcurrente.PrimeNumberCalculatorTest.txt:isNotPrimeSequential  Time elapsed: 0.017 s
+target/surefire-reports/unam.ciencias.computoconcurrente.PrimeNumberCalculatorTest.txt:negativeIsPrime  Time elapsed: 0.014 s
+
+Iteracion 6
+target/surefire-reports/unam.ciencias.computoconcurrente.MatrixUtilsTest.txt:findaverageConcurrent2  Time elapsed: 0.09 s
+target/surefire-reports/unam.ciencias.computoconcurrente.MatrixUtilsTest.txt:findAverageConcurrent  Time elapsed: 0.004 s
+target/surefire-reports/unam.ciencias.computoconcurrente.MatrixUtilsTest.txt:findAverage  Time elapsed: 0.005 s
+target/surefire-reports/unam.ciencias.computoconcurrente.MatrixUtilsTest.txt:findAverage2  Time elapsed: 0.012 s
+target/surefire-reports/unam.ciencias.computoconcurrente.PrimeNumberCalculatorTest.txt:isPrimeSequentialBigNumber  Time elapsed: 0 s
+target/surefire-reports/unam.ciencias.computoconcurrente.PrimeNumberCalculatorTest.txt:isNotPrimeSequentialBigNumber  Time elapsed: 0 s
+target/surefire-reports/unam.ciencias.computoconcurrente.PrimeNumberCalculatorTest.txt:isPrimeConcurrentBigNumber  Time elapsed: 0.022 s
+target/surefire-reports/unam.ciencias.computoconcurrente.PrimeNumberCalculatorTest.txt:isPrimeConcurrent  Time elapsed: 0.014 s
+target/surefire-reports/unam.ciencias.computoconcurrente.PrimeNumberCalculatorTest.txt:isNotPrimeConcurrent  Time elapsed: 0.014 s
+target/surefire-reports/unam.ciencias.computoconcurrente.PrimeNumberCalculatorTest.txt:oneIsNotPrime  Time elapsed: 0.002 s
+target/surefire-reports/unam.ciencias.computoconcurrente.PrimeNumberCalculatorTest.txt:isNotPrimeConcurrentBigNumber  Time elapsed: 0.01 s
+target/surefire-reports/unam.ciencias.computoconcurrente.PrimeNumberCalculatorTest.txt:isPrimeSequential  Time elapsed: 0.008 s
+target/surefire-reports/unam.ciencias.computoconcurrente.PrimeNumberCalculatorTest.txt:zeroIsNotPrime  Time elapsed: 0.011 s
+target/surefire-reports/unam.ciencias.computoconcurrente.PrimeNumberCalculatorTest.txt:isNotPrimeSequential  Time elapsed: 0.013 s
+target/surefire-reports/unam.ciencias.computoconcurrente.PrimeNumberCalculatorTest.txt:negativeIsPrime  Time elapsed: 0.01 s
+
+Iteracion 7
+target/surefire-reports/unam.ciencias.computoconcurrente.MatrixUtilsTest.txt:findaverageConcurrent2  Time elapsed: 0.067 s
+target/surefire-reports/unam.ciencias.computoconcurrente.MatrixUtilsTest.txt:findAverageConcurrent  Time elapsed: 0.007 s
+target/surefire-reports/unam.ciencias.computoconcurrente.MatrixUtilsTest.txt:findAverage  Time elapsed: 0.008 s
+target/surefire-reports/unam.ciencias.computoconcurrente.MatrixUtilsTest.txt:findAverage2  Time elapsed: 0.01 s
+target/surefire-reports/unam.ciencias.computoconcurrente.PrimeNumberCalculatorTest.txt:isPrimeSequentialBigNumber  Time elapsed: 0 s
+target/surefire-reports/unam.ciencias.computoconcurrente.PrimeNumberCalculatorTest.txt:isNotPrimeSequentialBigNumber  Time elapsed: 0.008 s
+target/surefire-reports/unam.ciencias.computoconcurrente.PrimeNumberCalculatorTest.txt:isPrimeConcurrentBigNumber  Time elapsed: 0.023 s
+target/surefire-reports/unam.ciencias.computoconcurrente.PrimeNumberCalculatorTest.txt:isPrimeConcurrent  Time elapsed: 0.016 s
+target/surefire-reports/unam.ciencias.computoconcurrente.PrimeNumberCalculatorTest.txt:isNotPrimeConcurrent  Time elapsed: 0.025 s
+target/surefire-reports/unam.ciencias.computoconcurrente.PrimeNumberCalculatorTest.txt:oneIsNotPrime  Time elapsed: 0.017 s
+target/surefire-reports/unam.ciencias.computoconcurrente.PrimeNumberCalculatorTest.txt:isNotPrimeConcurrentBigNumber  Time elapsed: 0.01 s
+target/surefire-reports/unam.ciencias.computoconcurrente.PrimeNumberCalculatorTest.txt:isPrimeSequential  Time elapsed: 0.006 s
+target/surefire-reports/unam.ciencias.computoconcurrente.PrimeNumberCalculatorTest.txt:zeroIsNotPrime  Time elapsed: 0.011 s
+target/surefire-reports/unam.ciencias.computoconcurrente.PrimeNumberCalculatorTest.txt:isNotPrimeSequential  Time elapsed: 0.015 s
+target/surefire-reports/unam.ciencias.computoconcurrente.PrimeNumberCalculatorTest.txt:negativeIsPrime  Time elapsed: 0.017 s
+
+Iteracion 8
+target/surefire-reports/unam.ciencias.computoconcurrente.MatrixUtilsTest.txt:findaverageConcurrent2  Time elapsed: 0.087 s
+target/surefire-reports/unam.ciencias.computoconcurrente.MatrixUtilsTest.txt:findAverageConcurrent  Time elapsed: 0.008 s
+target/surefire-reports/unam.ciencias.computoconcurrente.MatrixUtilsTest.txt:findAverage  Time elapsed: 0.003 s
+target/surefire-reports/unam.ciencias.computoconcurrente.MatrixUtilsTest.txt:findAverage2  Time elapsed: 0.003 s
+target/surefire-reports/unam.ciencias.computoconcurrente.PrimeNumberCalculatorTest.txt:isPrimeSequentialBigNumber  Time elapsed: 0 s
+target/surefire-reports/unam.ciencias.computoconcurrente.PrimeNumberCalculatorTest.txt:isNotPrimeSequentialBigNumber  Time elapsed: 0 s
+target/surefire-reports/unam.ciencias.computoconcurrente.PrimeNumberCalculatorTest.txt:isPrimeConcurrentBigNumber  Time elapsed: 0.02 s
+target/surefire-reports/unam.ciencias.computoconcurrente.PrimeNumberCalculatorTest.txt:isPrimeConcurrent  Time elapsed: 0.025 s
+target/surefire-reports/unam.ciencias.computoconcurrente.PrimeNumberCalculatorTest.txt:isNotPrimeConcurrent  Time elapsed: 0.012 s
+target/surefire-reports/unam.ciencias.computoconcurrente.PrimeNumberCalculatorTest.txt:oneIsNotPrime  Time elapsed: 0.021 s
+target/surefire-reports/unam.ciencias.computoconcurrente.PrimeNumberCalculatorTest.txt:isNotPrimeConcurrentBigNumber  Time elapsed: 0.021 s
+target/surefire-reports/unam.ciencias.computoconcurrente.PrimeNumberCalculatorTest.txt:isPrimeSequential  Time elapsed: 0.011 s
+target/surefire-reports/unam.ciencias.computoconcurrente.PrimeNumberCalculatorTest.txt:zeroIsNotPrime  Time elapsed: 0.015 s
+target/surefire-reports/unam.ciencias.computoconcurrente.PrimeNumberCalculatorTest.txt:isNotPrimeSequential  Time elapsed: 0.017 s
+target/surefire-reports/unam.ciencias.computoconcurrente.PrimeNumberCalculatorTest.txt:negativeIsPrime  Time elapsed: 0.014 s
+
+Iteracion 9
+target/surefire-reports/unam.ciencias.computoconcurrente.MatrixUtilsTest.txt:findaverageConcurrent2  Time elapsed: 0.033 s
+target/surefire-reports/unam.ciencias.computoconcurrente.MatrixUtilsTest.txt:findAverageConcurrent  Time elapsed: 0.007 s
+target/surefire-reports/unam.ciencias.computoconcurrente.MatrixUtilsTest.txt:findAverage  Time elapsed: 0.009 s
+target/surefire-reports/unam.ciencias.computoconcurrente.MatrixUtilsTest.txt:findAverage2  Time elapsed: 0.005 s
+target/surefire-reports/unam.ciencias.computoconcurrente.PrimeNumberCalculatorTest.txt:isPrimeSequentialBigNumber  Time elapsed: 0 s
+target/surefire-reports/unam.ciencias.computoconcurrente.PrimeNumberCalculatorTest.txt:isNotPrimeSequentialBigNumber  Time elapsed: 0.024 s
+target/surefire-reports/unam.ciencias.computoconcurrente.PrimeNumberCalculatorTest.txt:isPrimeConcurrentBigNumber  Time elapsed: 0.018 s
+target/surefire-reports/unam.ciencias.computoconcurrente.PrimeNumberCalculatorTest.txt:isPrimeConcurrent  Time elapsed: 0.015 s
+target/surefire-reports/unam.ciencias.computoconcurrente.PrimeNumberCalculatorTest.txt:isNotPrimeConcurrent  Time elapsed: 0.012 s
+target/surefire-reports/unam.ciencias.computoconcurrente.PrimeNumberCalculatorTest.txt:oneIsNotPrime  Time elapsed: 0.025 s
+target/surefire-reports/unam.ciencias.computoconcurrente.PrimeNumberCalculatorTest.txt:isNotPrimeConcurrentBigNumber  Time elapsed: 0.019 s
+target/surefire-reports/unam.ciencias.computoconcurrente.PrimeNumberCalculatorTest.txt:isPrimeSequential  Time elapsed: 0.011 s
+target/surefire-reports/unam.ciencias.computoconcurrente.PrimeNumberCalculatorTest.txt:zeroIsNotPrime  Time elapsed: 0.009 s
+target/surefire-reports/unam.ciencias.computoconcurrente.PrimeNumberCalculatorTest.txt:isNotPrimeSequential  Time elapsed: 0.012 s
+target/surefire-reports/unam.ciencias.computoconcurrente.PrimeNumberCalculatorTest.txt:negativeIsPrime  Time elapsed: 0.012 s
+
+Iteracion 10
+target/surefire-reports/unam.ciencias.computoconcurrente.MatrixUtilsTest.txt:findaverageConcurrent2  Time elapsed: 0.082 s
+target/surefire-reports/unam.ciencias.computoconcurrente.MatrixUtilsTest.txt:findAverageConcurrent  Time elapsed: 0.016 s
+target/surefire-reports/unam.ciencias.computoconcurrente.MatrixUtilsTest.txt:findAverage  Time elapsed: 0.001 s
+target/surefire-reports/unam.ciencias.computoconcurrente.MatrixUtilsTest.txt:findAverage2  Time elapsed: 0.007 s
+target/surefire-reports/unam.ciencias.computoconcurrente.PrimeNumberCalculatorTest.txt:isPrimeSequentialBigNumber  Time elapsed: 0.008 s
+target/surefire-reports/unam.ciencias.computoconcurrente.PrimeNumberCalculatorTest.txt:isNotPrimeSequentialBigNumber  Time elapsed: 0.021 s
+target/surefire-reports/unam.ciencias.computoconcurrente.PrimeNumberCalculatorTest.txt:isPrimeConcurrentBigNumber  Time elapsed: 0.021 s
+target/surefire-reports/unam.ciencias.computoconcurrente.PrimeNumberCalculatorTest.txt:isPrimeConcurrent  Time elapsed: 0.023 s
+target/surefire-reports/unam.ciencias.computoconcurrente.PrimeNumberCalculatorTest.txt:isNotPrimeConcurrent  Time elapsed: 0.016 s
+target/surefire-reports/unam.ciencias.computoconcurrente.PrimeNumberCalculatorTest.txt:oneIsNotPrime  Time elapsed: 0.009 s
+target/surefire-reports/unam.ciencias.computoconcurrente.PrimeNumberCalculatorTest.txt:isNotPrimeConcurrentBigNumber  Time elapsed: 0.009 s
+target/surefire-reports/unam.ciencias.computoconcurrente.PrimeNumberCalculatorTest.txt:isPrimeSequential  Time elapsed: 0.022 s
+target/surefire-reports/unam.ciencias.computoconcurrente.PrimeNumberCalculatorTest.txt:zeroIsNotPrime  Time elapsed: 0.013 s
+target/surefire-reports/unam.ciencias.computoconcurrente.PrimeNumberCalculatorTest.txt:isNotPrimeSequential  Time elapsed: 0.021 s
+target/surefire-reports/unam.ciencias.computoconcurrente.PrimeNumberCalculatorTest.txt:negativeIsPrime  Time elapsed: 0.014 s
+
+Iteracion 1
+findaverageConcurrent2  Time elapsed: 0.127 s
+findAverageConcurrent  Time elapsed: 0.008 s
+findAverage  Time elapsed: 0.012 s
+findAverage2  Time elapsed: 0.007 s
+isPrimeSequentialBigNumber  Time elapsed: 0 s
+isNotPrimeSequentialBigNumber  Time elapsed: 0 s
+isPrimeConcurrentBigNumber  Time elapsed: 0 s
+isPrimeConcurrent  Time elapsed: 0 s
+isNotPrimeConcurrent  Time elapsed: 0.008 s
+oneIsNotPrime  Time elapsed: 0.016 s
+isNotPrimeConcurrentBigNumber  Time elapsed: 0.016 s
+isPrimeSequential  Time elapsed: 0.015 s
+zeroIsNotPrime  Time elapsed: 0.012 s
+isNotPrimeSequential  Time elapsed: 0.013 s
+negativeIsPrime  Time elapsed: 0.012 s
+
+Iteracion 2
+findaverageConcurrent2  Time elapsed: 0.078 s
+findAverageConcurrent  Time elapsed: 0.009 s
+findAverage  Time elapsed: 0.006 s
+findAverage2  Time elapsed: 0.005 s
+isPrimeSequentialBigNumber  Time elapsed: 0 s
+isNotPrimeSequentialBigNumber  Time elapsed: 0 s
+isPrimeConcurrentBigNumber  Time elapsed: 0.015 s
+isPrimeConcurrent  Time elapsed: 0.005 s
+isNotPrimeConcurrent  Time elapsed: 0.009 s
+oneIsNotPrime  Time elapsed: 0.013 s
+isNotPrimeConcurrentBigNumber  Time elapsed: 0.007 s
+isPrimeSequential  Time elapsed: 0.009 s
+zeroIsNotPrime  Time elapsed: 0.021 s
+isNotPrimeSequential  Time elapsed: 0.013 s
+negativeIsPrime  Time elapsed: 0.015 s
+
+Iteracion 3
+findaverageConcurrent2  Time elapsed: 0.073 s
+findAverageConcurrent  Time elapsed: 0.01 s
+findAverage  Time elapsed: 0.003 s
+findAverage2  Time elapsed: 0.01 s
+isPrimeSequentialBigNumber  Time elapsed: 0.025 s
+isNotPrimeSequentialBigNumber  Time elapsed: 0.022 s
+isPrimeConcurrentBigNumber  Time elapsed: 0.051 s
+isPrimeConcurrent  Time elapsed: 0.016 s
+isNotPrimeConcurrent  Time elapsed: 0.019 s
+oneIsNotPrime  Time elapsed: 0.034 s
+isNotPrimeConcurrentBigNumber  Time elapsed: 0.01 s
+isPrimeSequential  Time elapsed: 0.02 s
+zeroIsNotPrime  Time elapsed: 0.01 s
+isNotPrimeSequential  Time elapsed: 0.01 s
+negativeIsPrime  Time elapsed: 0.021 s
+
+Iteracion 4
+findaverageConcurrent2  Time elapsed: 0.051 s
+findAverageConcurrent  Time elapsed: 0.009 s
+findAverage  Time elapsed: 0.007 s
+findAverage2  Time elapsed: 0.007 s
+isPrimeSequentialBigNumber  Time elapsed: 0.021 s
+isNotPrimeSequentialBigNumber  Time elapsed: 0.013 s
+isPrimeConcurrentBigNumber  Time elapsed: 0.008 s
+isPrimeConcurrent  Time elapsed: 0.014 s
+isNotPrimeConcurrent  Time elapsed: 0.013 s
+oneIsNotPrime  Time elapsed: 0.021 s
+isNotPrimeConcurrentBigNumber  Time elapsed: 0.012 s
+isPrimeSequential  Time elapsed: 0.011 s
+zeroIsNotPrime  Time elapsed: 0.01 s
+isNotPrimeSequential  Time elapsed: 0.019 s
+negativeIsPrime  Time elapsed: 0.011 s
+
+Iteracion 5
+findaverageConcurrent2  Time elapsed: 0.131 s
+findAverageConcurrent  Time elapsed: 0.027 s
+findAverage  Time elapsed: 0.015 s
+findAverage2  Time elapsed: 0.015 s
+isPrimeSequentialBigNumber  Time elapsed: 0 s
+isNotPrimeSequentialBigNumber  Time elapsed: 0.015 s
+isPrimeConcurrentBigNumber  Time elapsed: 0.057 s
+isPrimeConcurrent  Time elapsed: 0.045 s
+isNotPrimeConcurrent  Time elapsed: 0.014 s
+oneIsNotPrime  Time elapsed: 0.016 s
+isNotPrimeConcurrentBigNumber  Time elapsed: 0.013 s
+isPrimeSequential  Time elapsed: 0.033 s
+zeroIsNotPrime  Time elapsed: 0.014 s
+isNotPrimeSequential  Time elapsed: 0.011 s
+negativeIsPrime  Time elapsed: 0.021 s
+
+Iteracion 6
+findaverageConcurrent2  Time elapsed: 0.125 s
+findAverageConcurrent  Time elapsed: 0.014 s
+findAverage  Time elapsed: 0.003 s
+findAverage2  Time elapsed: 0.007 s
+isPrimeSequentialBigNumber  Time elapsed: 0 s
+isNotPrimeSequentialBigNumber  Time elapsed: 0 s
+isPrimeConcurrentBigNumber  Time elapsed: 0.003 s
+isPrimeConcurrent  Time elapsed: 0.024 s
+isNotPrimeConcurrent  Time elapsed: 0.007 s
+oneIsNotPrime  Time elapsed: 0.008 s
+isNotPrimeConcurrentBigNumber  Time elapsed: 0.012 s
+isPrimeSequential  Time elapsed: 0.01 s
+zeroIsNotPrime  Time elapsed: 0.013 s
+isNotPrimeSequential  Time elapsed: 0.01 s
+negativeIsPrime  Time elapsed: 0.009 s
+
+Iteracion 7
+findaverageConcurrent2  Time elapsed: 0.148 s
+findAverageConcurrent  Time elapsed: 0.022 s
+findAverage  Time elapsed: 0.009 s
+findAverage2  Time elapsed: 0.013 s
+isPrimeSequentialBigNumber  Time elapsed: 0 s
+isNotPrimeSequentialBigNumber  Time elapsed: 0 s
+isPrimeConcurrentBigNumber  Time elapsed: 0.018 s
+isPrimeConcurrent  Time elapsed: 0.026 s
+isNotPrimeConcurrent  Time elapsed: 0.02 s
+oneIsNotPrime  Time elapsed: 0.013 s
+isNotPrimeConcurrentBigNumber  Time elapsed: 0.033 s
+isPrimeSequential  Time elapsed: 0.02 s
+zeroIsNotPrime  Time elapsed: 0.016 s
+isNotPrimeSequential  Time elapsed: 0.019 s
+negativeIsPrime  Time elapsed: 0.002 s
+
+Iteracion 8
+findaverageConcurrent2  Time elapsed: 0.066 s
+findAverageConcurrent  Time elapsed: 0.016 s
+findAverage  Time elapsed: 0.015 s
+findAverage2  Time elapsed: 0.007 s
+isPrimeSequentialBigNumber  Time elapsed: 0 s
+isNotPrimeSequentialBigNumber  Time elapsed: 0.012 s
+isPrimeConcurrentBigNumber  Time elapsed: 0.032 s
+isPrimeConcurrent  Time elapsed: 0.02 s
+isNotPrimeConcurrent  Time elapsed: 0.01 s
+oneIsNotPrime  Time elapsed: 0.006 s
+isNotPrimeConcurrentBigNumber  Time elapsed: 0.009 s
+isPrimeSequential  Time elapsed: 0.015 s
+zeroIsNotPrime  Time elapsed: 0.018 s
+isNotPrimeSequential  Time elapsed: 0.015 s
+negativeIsPrime  Time elapsed: 0.011 s
+
+Iteracion 9
+findaverageConcurrent2  Time elapsed: 0.085 s
+findAverageConcurrent  Time elapsed: 0.01 s
+findAverage  Time elapsed: 0.007 s
+findAverage2  Time elapsed: 0.005 s
+isPrimeSequentialBigNumber  Time elapsed: 0.004 s
+isNotPrimeSequentialBigNumber  Time elapsed: 0.026 s
+isPrimeConcurrentBigNumber  Time elapsed: 0.013 s
+isPrimeConcurrent  Time elapsed: 0.005 s
+isNotPrimeConcurrent  Time elapsed: 0.012 s
+oneIsNotPrime  Time elapsed: 0.021 s
+isNotPrimeConcurrentBigNumber  Time elapsed: 0.012 s
+isPrimeSequential  Time elapsed: 0.014 s
+zeroIsNotPrime  Time elapsed: 0.021 s
+isNotPrimeSequential  Time elapsed: 0.021 s
+negativeIsPrime  Time elapsed: 0.018 s
+
+Iteracion 10
+findaverageConcurrent2  Time elapsed: 0.087 s
+findAverageConcurrent  Time elapsed: 0.009 s
+findAverage  Time elapsed: 0.005 s
+findAverage2  Time elapsed: 0.004 s
+isPrimeSequentialBigNumber  Time elapsed: 0 s
+isNotPrimeSequentialBigNumber  Time elapsed: 0 s
+isPrimeConcurrentBigNumber  Time elapsed: 0.013 s
+isPrimeConcurrent  Time elapsed: 0.014 s
+isNotPrimeConcurrent  Time elapsed: 0.02 s
+oneIsNotPrime  Time elapsed: 0.015 s
+isNotPrimeConcurrentBigNumber  Time elapsed: 0.022 s
+isPrimeSequential  Time elapsed: 0.015 s
+zeroIsNotPrime  Time elapsed: 0.016 s
+isNotPrimeSequential  Time elapsed: 0.015 s
+negativeIsPrime  Time elapsed: 0.014 s
+
